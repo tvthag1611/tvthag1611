@@ -1,4 +1,4 @@
-Hi 👋 My name is Trần Văn Thắng
+Hi 👋 My name is Thang Tran
 ===============================
 
 Frontend Developer
