@@ -6,7 +6,7 @@ Frontend Developer
 
 I'm a Frontend Developer who loves React!
 
-* 🌍  I'm based in Ha Noi
+* 🌍  I'm working in Ha Noi
 * ✉️  You can contact me at [thangquyvanthao2000@gmail.com](mailto:thangquyvanthao2000@gmail.com)
 * 🚀  I'm currently working on [One Mount](http://onemount.com/)
 * 🧠  I'm learning NestJs
