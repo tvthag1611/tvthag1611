@@ -15,7 +15,11 @@ I'm a Frontend Developer who loves React!
 
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,jquery,react,redux,sass,materialui,tailwindcss,styledcomponents" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,postman" /><br/>
+  <img src="https://skillicons.dev/icons?i=ps,figma,ai,pr" />
 </p>
 
 
